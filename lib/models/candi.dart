@@ -19,5 +19,9 @@ class Candi {
     this.isFavorite = false,
   });
 
+  get sumFavorite => null;
+
+  get visitingHours => null;
+
 }
 
